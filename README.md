@@ -1,24 +1,24 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Physical Science
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Physics Lab
+<b> Experiment|     <b>  To determine the wavelength of sodium light by Newtons ring experiment
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+The wavelength of sodium light can be determined using the Newton's Ring experiment. This involves projecting a collimated beam of sodium light onto a concave glass lens and observing the interference pattern created by the light waves reflecting off the lens surface. By measuring the diameter of the dark and bright rings and using the formula for the interference of light waves, the wavelength of the sodium light can be calculated. The resulting value can be used to determine the spectral line for sodium in the visible region of the electromagnetic spectrum.<br><br>
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Rahul Pushpakar 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b> Rajkiya Engineering College Banda 
+<b> Email id|     <b> rahulpushpker@gmail.com 
+<b> Department | Mechanical Engineering
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 | Dr. ASHUTOSH TIWARI | FACULTY | Applied Science | Rajkiya Engineering College Banda | ashutosh.tiwari@recbanda.ac.in
+2 | RAHUL PUSHPAKAR | STUDENT	 | Mechanical Engineering	 | Rajkiya Engineering College Banda	 | rahulpushpker@gmail.com
