@@ -2,34 +2,51 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Which of the following does not show any interference pattern?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Soap bubble",
+        "b": "Excessively thin film",
+        "c": "A thick film",
+        "d": "Wedge Shaped film"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
+        "a": "Explanation 2",
+        "b": "Explanation 1  <a href='www.google.com'>here</a>",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. The main principle used in Interference is _____________",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Heisenberg’s Uncertainty Principle",
+        "b": "Superposition Principle",
+        "c": "Quantum Mechanics",
+        "d": "Fermi Principle"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
+        "a": "Explanation 2",
+        "b": "Explanation 1  <a href='www.google.com'>here</a>",
         "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "When Two waves of same amplitude add constructively, the intensity becomes _____________",
+      "answers": {
+        "a": "Double",
+        "b": "Half",
+        "c": "Four Times",
+        "d": "One-Fourth"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 2",
+        "c": "Explanation 1  <a href='www.google.com'>here</a>",
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
