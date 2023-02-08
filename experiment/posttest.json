@@ -2,7 +2,24 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.The shape of the fringes observed in interference is ____________",
+      "answers": {
+        "a": "Straight",
+        "b": "Circular",
+        "c": "Hyperbolic",
+        "d": "Elliptical"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 2",
+        "c": "Explanation 1  <a href='https://www.sanfoundry.com/engineering-physics-questions-answers-interference-light/#:~:text=Explanation%3A%20The%20fringes%20observed%20in,pattern%20are%20hyperbolic%20in%20shape.'>here</a>",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.Zero order fringe can be identified using ____________",
       "answers": {
         "a": "answer1",
         "b": "answer2",
@@ -10,7 +27,7 @@
         "d": "answer4"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1  <a href='https://www.sarthaks.com/2390592/zero-order-fringe-can-be-identified-using#:~:text=1%20Answer&text=Explanation%3A%20When%20the%20white%20light,be%20identified%20using%20white%20light.'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
@@ -19,20 +36,20 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The shape of the pattern depends on the ____________",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Distance between the slits",
+        "b": "Distance between the slits and the screen",
+        "c": "Wavelength of light",
+        "d": "Shape of the slit"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1  <a href='https://www.sanfoundry.com/engineering-physics-questions-answers-interference-light/#:~:text=Explanation%3A%20The%20shape%20of%20the,the%20shape%20of%20the%20slits.'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
