@@ -52,9 +52,34 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 <a name="IS"></a>
 #### 3. Instructional Strategy
 ###### Name of Instructional Strategy  :    <u>   
+The wavelength of sodium light can be determined using the Newton's ring experiment. The experiment involves the interference of light and is based on the principle of the formation of circular fringes of light and dark bands. The procedure to determine the wavelength of sodium light using the Newton's ring experiment is as follows:<br><br>
+1. Set up the apparatus: The apparatus consists of a convex lens, a plano-convex lens, a light source (sodium lamp), a screen and a micrometer. The convex lens is placed on a flat glass plate, and the plano-convex lens is placed over it, with its convex surface facing upwards. The light source is positioned to shine on the lens assembly, and the screen is placed at a suitable distance to view the interference pattern.<br>
+2. Adjust the focus: Adjust the focus of the light source so that the image of the source is formed on the screen. This can be done by adjusting the distance between the light source and the lens assembly.<br>
+3. Observe the interference pattern: The interference pattern of circular fringes of light and dark bands (Newton's rings) will be formed on the screen. The diameter of the first bright ring can be measured using a micrometer.<br>
+4. Calculation of wavelength: The wavelength of sodium light can be calculated using the following formula:<br><br>
+λ = nd/m
+<br><br>
+where λ is the wavelength, n is the refractive index of the air between the lenses, d is the diameter of the first bright ring and m is the order of the ring (m=1 for the first bright ring). The refractive index of air can be assumed to be 1.0003.<br>
+5. Repeat the experiment: Repeat the experiment for different orders of the rings and calculate the wavelength of sodium light using the formula. The average of the calculated wavelengths will give a more accurate value of the wavelength of sodium light.
+
 ###### Assessment Method:   
+The Newton's ring experiment is a method of determining the wavelength of sodium light by analyzing the interference patterns produced by light reflecting off a convex lens and a flat surface. Here's the procedure for determining the wavelength of sodium light using the Newton's ring experiment:<br><br>
+1. Set up the apparatus: Place a convex lens on a flat glass plate and place a sodium light source above the lens. Make sure the light source is positioned directly above the center of the lens.
+2. Observe the interference patterns: Turn on the light source and observe the interference patterns formed by the light reflecting off the lens and the flat glass plate. The patterns will appear as bright and dark rings on the surface of the lens.
+3. Measure the diameter of the rings: Use a ruler or caliper to measure the diameter of each ring, starting from the innermost ring and working your way outwards. Record the diameters in a table.
+4. Calculate the path difference: The path difference is the difference in distance between the light beams that are interfering with each other. To calculate the path difference, use the formula nλ = 2RcosΘ, where n is the order of the ring, λ is the wavelength, R is the radius of curvature of the lens, and Θ is the angle between the light and the surface of the lens.
+5. Determine the wavelength: The wavelength of the light can be determined by rearranging the formula nλ = 2RcosΘ and solving for λ. To do this, you need to know the radius of curvature of the lens, which can be obtained from the manufacturer's specifications.
+6. Repeat the experiment: Repeat the steps 3-5 for different orders of rings to get multiple readings of the wavelength of sodium light. Average the readings to obtain the most accurate value.<br><br>
+The wavelength of sodium light can be determined with a high degree of accuracy using the Newton's ring experiment, making it a valuable tool for analyzing light sources in physics and optics experiments.
+
 
 <u> <b>Description: </b>    </u>
+<br><br>
+The wavelength of sodium light can be determined using the Newton's ring experiment. In this experiment, a circular glass plate is placed on top of a flat glass surface, creating a thin air gap between the two surfaces. A monochromatic light source, such as sodium light, is directed onto the circular glass plate, creating an interference pattern in the form of concentric rings. The wavelength of the light source can be calculated from the diameter of the rings and the refractive index of the glass.
+<br><>br
+To determine the wavelength of sodium light, the diameter of the rings is measured at various points and the difference in path length between the light rays passing through the center of the ring and those passing through the outer edge of the ring is calculated. The difference in path length is related to the wavelength of the light and the refractive index of the glass, which can be used to determine the wavelength of the sodium light.
+<br><br>
+This experiment allows for precise determination of the wavelength of the light source, as it is based on the principle of interference. The accuracy of the measurement can be improved by using a high-resolution microscope to measure the diameter of the rings and by using a high-quality glass plate with a low refractive index.
 <br>
     
 
