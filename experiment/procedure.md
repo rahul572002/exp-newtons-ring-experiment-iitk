@@ -1,4 +1,3 @@
-### Procedure
 The procedure of determining the wavelength of sodium light using the Newton's Ring experiment is as follows:<br><br>
 
 1. Set up the experiment: A convex lens and a plano-convex glass plate are placed in contact with each other. A source of monochromatic light (sodium light) is directed towards the lens-plate combination.<br>
