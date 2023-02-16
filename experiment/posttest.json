@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1.The shape of the fringes observed in interference is ____________",
+      "question": "1. The shape of the fringes observed in interference is ____________",
       "answers": {
         "a": "Straight",
         "b": "Circular",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2.Zero order fringe can be identified using ____________",
+      "question": "2. Zero order fringe can be identified using ____________",
       "answers": {
         "a": "answer1",
         "b": "answer2",
