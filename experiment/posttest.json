@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. The shape of the fringes observed in interference is ____________",
+      "question": "1.The shape of the fringes observed in interference is ____________",
       "answers": {
         "a": "Straight",
         "b": "Circular",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2. Zero order fringe can be identified using ____________",
+      "question": "2.Zero order fringe can be identified using ____________",
       "answers": {
         "a": "answer1",
         "b": "answer2",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "3. The shape of the pattern depends on the ____________",
+      "question": "3.The shape of the pattern depends on the ____________",
       "answers": {
         "a": "Distance between the slits",
         "b": "Distance between the slits and the screen",
@@ -50,6 +50,40 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4.A wedge shaped film has",
+      "answers": {
+        "a": "Non uniform thickness",
+        "b": "Zero thickness at one end and it increasing towards other end",
+        "c": "Zero thickness at both ends",
+        "d": "Thickness increases and decreases alternately"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 1  <a href='https://quizizz.com/admin/quiz/609509fc2cdee7001be90d35/wedge-shaped-films-newtons-rings-experiment'>here</a>",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5.If plane mirror is used in place of glass plate in Newton's Ring experiment -",
+      "answers": {
+        "a": "Multicolour fringes are seen",
+        "b": "Only bright fringes are seen",
+        "c": "No fringes are seen",
+        "d": "Only dark fringes are seen"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 2",
+        "c": "Explanation 1  <a href='https://quizizz.com/admin/quiz/609509fc2cdee7001be90d35/wedge-shaped-films-newtons-rings-experiment'>here</a>",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
       "difficulty": "beginner"
     }
   ]
